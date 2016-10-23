@@ -1,0 +1,5 @@
+name="Simple Kodi Build"
+url="https://www.dropbox.com/s/vj4u8v5nko0hyf8/tvbox1023.zip?dl=1"
+img=""
+fanart=""
+description="MyTVBoxIsNutz@gmail.com"
