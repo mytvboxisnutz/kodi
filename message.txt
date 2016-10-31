@@ -1,9 +1,9 @@
-3 
+4
 ||| 
 Welcome to the MyTVBoxIsNutz build V1.0
 
-I will let you know when a new update is available 
-and how to update your system.
+There is a new update available! Run the Nutz Wizard under Settings.
+Settings>Add-ons>My Add-ons>Program add-ons
 
 Just added a new addon great for kids. Check out the kids section on your home screen.
 I also deleted some addons that were taken down.
