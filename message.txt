@@ -3,7 +3,7 @@
 Welcome to the MyTVBoxIsNutz 
 
 There is a new update available! Click on Settings<Add-ons<Install from ZIP<Nutz and click 
-on the only option available.
+on the only option available. Once enable to go SETTINGS<Add-ons<My Add-ons<Programs and run the Nutz Wizard.
 
 A lot of changes available. New movie and TV source! Pick your movie and select auto-play.
 Live kids TV now under Live TV. New Sports sources and shortcuts! Pick the yellow option under
