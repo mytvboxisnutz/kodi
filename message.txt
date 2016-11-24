@@ -1,11 +1,19 @@
-4
+5
 ||| 
-Welcome to the MyTVBoxIsNutz build V1.0
+Welcome to the MyTVBoxIsNutz 
 
-There is a new update available! Run the Nutz Wizard under Settings.
-Settings>Add-ons>My Add-ons>Program add-ons
+There is a new update available! Click on Settings<Add-ons<Install from ZIP<Nutz and click 
+on the only option available.
 
-Just added a new addon great for kids. Check out the kids section on your home screen.
-I also deleted some addons that were taken down.
+A lot of changes available. New movie and TV source! Pick your movie and select auto-play.
+Live kids TV now under Live TV. New Sports sources and shortcuts! Pick the yellow option under
+Live TV and select BT2 to watch PPV UFC fights. If that doesn't work for you, MAMAHD under Pheonix Sports
+also works well.  HD Sources for UFC in next update!  Going to try to work on getting at least 1
+game system working in the next few weeks. Controller sold seperately.
 
-Any questions? Email mytvboxisnutz@gmail.com
+DO NOT STOP A VIDEO, JUST PAUSE IT!! 
+For some reason, stopping causes Kodi to crash. Just pause and no problems.
+PLEASE BE PATIENT WITH THE BOX!
+Sometimes you just have to wait a little bit for it to work.
+
+Any questions, requests or problems? Email mytvboxisnutz@gmail.com
