@@ -1,15 +1,11 @@
-7
+8
 ||| 
 Welcome to the MyTVBoxIsNutz 
 
-There is a new update available! Click on Settings<Add-ons<Install from ZIP<Nutz and click 
-on the only option available. Once enable to go SETTINGS<Add-ons<Install from Repository<Nutz Repo<
-Program Add-ons and install the add-on. After its installed, run the wizard selection. 
-Once you update, this add-on will be on the Home Kodi menu.
+There is a new update avaialble, with an all new Wizard!
+Now, whenever a new update is available, there will be a 
+popup asking if you would like to update the build (Kodi menus 
+and add-ons). Just click yes! The Wizard updates the same way!
 
-Whole new look! Once you see what you want, go ahead and click on it.
-
-PLEASE BE PATIENT WITH THE BOX!
-Sometimes you just have to wait a little bit for it to work.
-
-Any questions, requests or problems? Email mytvboxisnutz@gmail.com
+I added a great new HD movie add-on called HVEClub, and a new 4k 
+source movie source, check it out!
